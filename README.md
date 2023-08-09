@@ -10,7 +10,7 @@ C++ Extension to Center Professional Headshots Relying on Face and Eye Detection
 - ```-name``` (person name)
 - ```-imageName``` (image name including file extension)
 - ```-sourceDir``` (where the image is stored)
-- ```-finalDir``` (output directory
+- ```-finalDir``` (output directory)
 
 ## Output:
 - Cropped PNG with "cropped_\<name\>.png" format
