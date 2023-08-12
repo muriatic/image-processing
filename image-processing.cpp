@@ -416,6 +416,8 @@ private:
 		if (image_mat.empty())
 		{
 			cout << "error: unable to read image" << endl;
+			cout << "image: ";
+			cout << sourceImagePath << endl;
 			throw exception("error: unable to read image");
 		}
 
