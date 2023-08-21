@@ -2,7 +2,7 @@
 C++ Extension to Center Professional Headshots Relying on Face and Eye Detection
 
 ## Requirements:
-- Opencv
+- Opencv (found on latest release from their [GitHub Repo](https://github.com/opencv/opencv/tree/4.8.0))
 - Opencv must be installed on C drive or changed in the code. 
 
 ## Input:
