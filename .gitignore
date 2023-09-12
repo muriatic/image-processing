@@ -1,1 +1,13 @@
-.vscode
+*.vscode
+*.vsidx
+*.lock
+*.suo
+*.db
+*.db-shm
+*.db-wal
+*.opendb
+*.ipch
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
